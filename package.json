@@ -1,6 +1,6 @@
 {
   "name": "node-core-commit-stream",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A stream of structured commit messages from Node.js core sorted newest to oldest",
   "main": "index.js",
   "dependencies": {
