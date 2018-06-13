@@ -1,0 +1,27 @@
+{
+  "name": "node-core-commit-stream",
+  "version": "0.0.0",
+  "description": "A stream of structured commit messages from Node.js core sorted newest to oldest",
+  "main": "index.js",
+  "dependencies": {
+    "from2": "^2.3.0",
+    "parse-link-header": "^1.0.1",
+    "simple-get": "^3.0.2"
+  },
+  "devDependencies": {
+    "standard": "^11.0.1"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/node-core-commit-stream.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/node-core-commit-stream/issues"
+  },
+  "homepage": "https://github.com/mafintosh/node-core-commit-stream"
+}
